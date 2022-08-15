@@ -1,10 +1,15 @@
 {
   "name": "portfolio",
   "version": "1.0.0",
-  "homepage": "https://hamishw.com",
-  "description": "Portfolio site for Hamish Williams",
-  "repository": "https://github.com/HamishMW/portfolio.git",
-  "author": "Hamish Williams <hello@hamishw.com>",
+  "homepage": "https://phungvanminh.com",
+  "description": "Portfolio site for Minh Phung",
+  "repository": "https://github.com/mundo88/Portfolio.git",
+  "author": "Minh Phung <hello@minhphung.com>",
+  "license": "MIT",
+  "keywords": [
+    "example",
+    "heroku"
+  ],
   "devDependencies": {
     "@mapbox/rehype-prism": "^0.7.0",
     "@storybook/addon-a11y": "^6.5.10",
