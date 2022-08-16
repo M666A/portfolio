@@ -70,11 +70,11 @@ export function Page404() {
               <a
                 className={styles.credit}
                 data-visible={visible}
-                href="https://www.imdb.com/title/tt0113568/"
+                href="https://www.imdb.com/title/tt4154796/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
-                Animation from Ghost in the Shell (1995)
+                Avenger Endgame (2019)
               </a>
             </div>
           </Fragment>
