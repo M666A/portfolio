@@ -2,8 +2,8 @@
   "env": {
     "es6": true
   },
-  "extends": ["eslint:recommended", "next/core-web-vitals", "prettier"],
-  "plugins": ["prettier"],
+  "extends": ["eslint:recommended", "next/core-web-vitals", "eslint-plugin-prettier"],
+  "plugins": ["eslint-plugin-prettier"],
   "rules": {
     "prettier/prettier": [
       "error",
