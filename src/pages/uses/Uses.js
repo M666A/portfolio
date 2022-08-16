@@ -102,11 +102,7 @@ export const Uses = () => {
                   </ListItem>
                   <ListItem>
                     For building and testing UI components in isolation I use{' '}
-                    <Link href="https://storybook.js.org/">Storybook</Link>. Check out the{' '}
-                    <Link href="https://storybook.phungvanminh.com">
-                      storybook for this website
-                    </Link>
-                    .
+                    <Link href="https://storybook.js.org/">Storybook</Link>
                   </ListItem>
                 </List>
               </ProjectSectionText>
@@ -141,7 +137,7 @@ export const Uses = () => {
                   </TableRow>
                   <TableRow>
                     <TableHeadCell>Keyboard</TableHeadCell>
-                    <TableCell>Logitech MX Keys</TableCell>
+                    <TableCell>Keychron K10 - Red Switch</TableCell>
                   </TableRow>
                   <TableRow>
                     <TableHeadCell>Mouse</TableHeadCell>
@@ -153,7 +149,7 @@ export const Uses = () => {
                   </TableRow>
                   <TableRow>
                     <TableHeadCell>Headphones</TableHeadCell>
-                    <TableCell>Audio Technica ATH-M50x/Apple Airpods</TableCell>
+                    <TableCell>Audio Sony WH-1000XM4</TableCell>
                   </TableRow>
                   <TableRow>
                     <TableHeadCell>Microphone</TableHeadCell>
