@@ -29,7 +29,7 @@ export async function generateOgImage(props) {
     ignoreDefaultArgs: ['--disable-extensions']
   })
   const page = await browser.newPage();
-  await page.setViewport({ width: 1200, height: 630 });
+  await page.setViewport({ width: 1200, height: 627 });
   await page.goto(url, { waitUntil: 'networkidle0' });
   const buffer = await page.screenshot();
   await browser.close();
