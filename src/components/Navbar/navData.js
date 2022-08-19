@@ -20,26 +20,22 @@ export const navLinks = [
 export const socialLinks = [
   {
     label: 'Twitter',
-    url: 'https://twitter.com/modunnn',
+    url: 'https://twitter.com/malangthang344/',
     icon: 'twitter',
   },
   {
     label: 'instagram',
-    url: 'https://www.instagram.com/p____.minh/',
+    url: 'https://www.instagram.com/quang.minh._.79/',
     icon: 'instagram',
   }, {
     label: 'facebook',
-    url: 'https://www.facebook.com/p.v.minh8/',
+    url: 'https://www.facebook.com/boytubi.20cm/',
     icon: 'facebook',
   },
-  // {
-  //   label: 'Figma',
-  //   url: 'https://www.figma.com/@phungminh',
-  //   icon: 'figma',
-  // },
+
   {
     label: 'Github',
-    url: 'https://github.com/mundo88',
+    url: 'https://github.com/dinhquangminh98',
     icon: 'github',
   },
 
